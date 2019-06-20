@@ -1,0 +1,12 @@
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/bin/iPhoneSimulator/Debug/Geofencing.exe
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/bin/iPhoneSimulator/Debug/Geofencing.pdb
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/actool/_PartialAppManifest.items
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/coremlc/_PartialAppManifest.items
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/Geofencing.csprojAssemblyReference.cache
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/Geofencing.csproj.CoreCompileInputs.cache
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/Geofencing.exe
+/Users/aproram/Downloads/docs-archive-master/Recipes/ios/multitasking/geofencing/Geofencing/obj/iPhoneSimulator/Debug/Geofencing.pdb

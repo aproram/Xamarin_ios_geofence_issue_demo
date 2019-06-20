@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E1760C9D-3DEA-4C41-A8C7-7B1ACA900DFF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Geofencing PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B233C2F0-6FA7-41FA-B3A6-B1E520C29A6E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Geofencing/MainStoryboard.storyboard">
+    <Files>
+      <File FileName="Geofencing/GeofencingViewController.cs" Line="1" Column="1" />
+      <File FileName="Geofencing/GeofencingViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Geofencing/MainStoryboard.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Geofencing" expanded="True">
+            <Node name="Geofencing" expanded="True">
+              <Node name="GeofencingViewController.cs" expanded="True" />
+              <Node name="MainStoryboard.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
